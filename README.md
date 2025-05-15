@@ -6,7 +6,7 @@ Breve explicación de qué es el proyecto y qué hace.
 ## Tecnologías
 - Flutter 3.x
 - Dart
-- Firebase / MySQL / Backend (lo que uses)
+- Firebase 
 - Paquetes usados (google_fonts, get, etc.)
 
 ## Instalación
